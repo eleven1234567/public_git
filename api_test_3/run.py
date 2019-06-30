@@ -15,7 +15,7 @@ suite=unittest.TestSuite()  #测试套件   负责搜集测试用例
 loader=unittest.TestLoader()
 # suite.addTest(loader.loadTestsFromTestCase(TestHttpRequest))
 suite.addTest(loader.loadTestsFromModule(test_login))
-suite.addTest(loader.loadTestsFromModule(test_gold_add))
+# suite.addTest(loader.loadTestsFromModule(test_gold_add))
 
 now=time.strftime('%Y-%m-%d')  #获取当前时间
 path='test_'+now+'.html'

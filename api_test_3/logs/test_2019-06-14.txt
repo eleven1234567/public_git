@@ -1,0 +1,116 @@
+我要开始测试了
+执行用例的时候报错{'err[24 chars]': {'userId': 9786, 'login_time': '20190605204[45 chars]da'}} != {'err[24 chars]': {'login_time': '20190614214220', 'userId': [45 chars]e5'}}
+  {'error_code': 0,
+-  'login_info': {'login_time': '20190605204156',
+?                                      ^^  ----
+
++  'login_info': {'login_time': '20190614214220',
+?                                      ^^^^^^
+
+-                 'sign': 'a37d5bfdafd0ed7a0a18785debc352da',
++                 'sign': '5482d5a62e5bbe0e55cb00b6b825ede5',
+                  'userId': 9786}}
+我已经结束测试了
+我要开始测试了
+我已经结束测试了
+我要开始测试了
+执行用例的时候报错 :: {'error_code': 0,
+ 'login_info': {'login_time': '20190605204156',
+                'sign': 'a37d5bfdafd0ed7a0a18785debc352da',
+                'userId': 9786}} != {'error_code': 0,
+ 'login_info': {'login_time': '20190614214848',
+                'sign': '5482d5a62e5bbe0e55cb00b6b825ede5',
+                'userId': 9786}}
+我已经结束测试了
+我要开始测试了
+执行用例的时候报错 :: {'error_code': 0,
+ 'login_info': {'login_time': '20190605204156',
+                'sign': 'a37d5bfdafd0ed7a0a18785debc352da',
+                'userId': 9786}} != {'error_code': 3330, 'msg': '未登录！'}
+我已经结束测试了
+我要开始测试了
+执行用例的时候报错 :: {'error_code': 0,
+ 'login_info': {'login_time': '20190605204156',
+                'sign': 'a37d5bfdafd0ed7a0a18785debc352da',
+                'userId': 9786}} != {'error_code': 3330, 'msg': '未登录！'}
+我已经结束测试了
+我要开始测试了
+执行用例的时候报错 :: {'error_code': 0,
+ 'login_info': {'login_time': '20190605204156',
+                'sign': 'a37d5bfdafd0ed7a0a18785debc352da',
+                'userId': 9786}} != {'error_code': 0,
+ 'login_info': {'login_time': '20190614215942',
+                'sign': '5482d5a62e5bbe0e55cb00b6b825ede5',
+                'userId': 9786}}
+我已经结束测试了
+我要开始测试了
+执行用例的时候报错 :: {'error_code': 0,
+ 'login_info': {'login_time': '20190605204156',
+                'sign': 'a37d5bfdafd0ed7a0a18785debc352da',
+                'userId': 9786}} != {'error_code': 0, 'msg': '操作成功！'}
+我已经结束测试了
+我要开始测试了
+执行用例的时候报错 :: {'error_code': 0,
+ 'login_info': {'login_time': '20190605204156',
+                'sign': 'a37d5bfdafd0ed7a0a18785debc352da',
+                'userId': 9786}} != {'error_code': 3331, 'msg': '充值金币必须大于0'}
+我已经结束测试了
+我要开始测试了
+执行用例的时候报错 :: {'error_code': 0,
+ 'login_info': {'login_time': '20190605204156',
+                'sign': 'a37d5bfdafd0ed7a0a18785debc352da',
+                'userId': 9786}} != {'error_code': 0,
+ 'login_info': {'login_time': '20190614220028',
+                'sign': '5482d5a62e5bbe0e55cb00b6b825ede5',
+                'userId': 9786}}
+我已经结束测试了
+我要开始测试了
+我已经结束测试了
+我要开始测试了
+我已经结束测试了
+我要开始测试了
+执行用例的时候报错{'log[43 chars]0190605204156', 'sign': 'a37d5bfdafd0ed7a0a187[26 chars]': 0} != {'log[43 chars]0190614220244', 'sign': '5482d5a62e5bbe0e55cb0[26 chars]': 0}
+  {'error_code': 0,
+-  'login_info': {'login_time': '20190605204156',
+?                                      ^^   ^^^
+
++  'login_info': {'login_time': '20190614220244',
+?                                      ^^^  + ^
+
+-                 'sign': 'a37d5bfdafd0ed7a0a18785debc352da',
++                 'sign': '5482d5a62e5bbe0e55cb00b6b825ede5',
+                  'userId': 9786}}
+我已经结束测试了
+我要开始测试了
+我已经结束测试了
+我要开始测试了
+执行用例的时候报错{'log[43 chars]0190605204156', 'sign': 'a37d5bfdafd0ed7a0a187[26 chars]': 0} != {'log[43 chars]0190614220244', 'sign': '5482d5a62e5bbe0e55cb0[26 chars]': 0}
+  {'error_code': 0,
+-  'login_info': {'login_time': '20190605204156',
+?                                      ^^   ^^^
+
++  'login_info': {'login_time': '20190614220244',
+?                                      ^^^  + ^
+
+-                 'sign': 'a37d5bfdafd0ed7a0a18785debc352da',
++                 'sign': '5482d5a62e5bbe0e55cb00b6b825ede5',
+                  'userId': 9786}}
+我已经结束测试了
+我要开始测试了
+我已经结束测试了
+我要开始测试了
+我已经结束测试了
+我要开始测试了
+我已经结束测试了
+我要开始测试了
+我已经结束测试了
+我要开始测试了
+我已经结束测试了
+我要开始测试了
+我已经结束测试了
+我要开始测试了
+我已经结束测试了
+我要开始测试了
+我已经结束测试了
+我要开始测试了
+我已经结束测试了
